@@ -1,7 +1,7 @@
 ##basic unix commands practice outputs
 ## GENERAL  COMMANDS OUTPUTS 
 ### CAT COMMAND manual
-![cat command manual](mcat.png)
+![cat command manual](cat.png)
 ### CAT COMMAND OUTPUT
 ![cat command output](cat.png)
 ### CAT COMMAND OUTPUT
