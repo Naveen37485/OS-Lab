@@ -2,9 +2,9 @@
 ### CAT COMMAND manual
 ![cat command manual](cat.png)
 ### CAT COMMAND OUTPUT
-![cat command output](cat.png)
-### CAT COMMAND OUTPUT
 ![cat command output](cat_.png)
+### CAT COMMAND OUTPUT
+![cat command output](cat__.png)
 ### CAT COMMAND OUTPUT
 ![cat command output](cat__.png)
 ### CD COMMAND OUTPUT
