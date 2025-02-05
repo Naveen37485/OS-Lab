@@ -1,10 +1,11 @@
+##basic unix commands practice outputs
 ## GENERAL  COMMANDS OUTPUTS 
 ### CAT COMMAND manual
-![cat command manual](cat.png)
+![cat command manual](mcat.png)
+### CAT COMMAND OUTPUT
+![cat command output](cat.png)
 ### CAT COMMAND OUTPUT
 ![cat command output](cat_.png)
-### CAT COMMAND OUTPUT
-![cat command output](cat__.png)
 ### CAT COMMAND OUTPUT
 ![cat command output](cat__.png)
 ### CD COMMAND OUTPUT
@@ -97,4 +98,4 @@
 ![wc command output](wc.png)
 ### WHO COMMAND OUTPUT
 ![who command output](who.png)
-# The Study And Execution Of Unix Commands Has Been Completed Successfully.# OS-Lab
+# Conclusion: The Study And Execution Of Unix Commands Has Been Completed Successfully.
